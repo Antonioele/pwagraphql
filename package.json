@@ -1,0 +1,8 @@
+{
+  "name": "testgraphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Antonioele/pwagraphql.git",
+  "author": "antonioele <antonio.ele@tiscali.it>",
+  "license": "MIT"
+}
