@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/Antonioele/pwagraphql.git",
   "author": "antonioele <antonio.ele@tiscali.it>",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "workspaces":[
+    "packages/babel-preset-peregrine",
+    "packages/peregrine"
+
+  ]
 }
